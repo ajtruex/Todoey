@@ -18,7 +18,7 @@ class TodoListViewController: UITableViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
         
-        print(self.dataFilePath)
+//        print(dataFilePath)
         
 //        let newItem = Item()
 //        newItem.title = "A"
